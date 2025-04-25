@@ -1,6 +1,5 @@
 # 🎉 Riddles Game: Ultimate Brain Teaser 🎉
 
-![Riddles Game Screenshot](screenshot.png)
 
 ## 👋 About Me
 
